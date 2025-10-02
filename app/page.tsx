@@ -221,7 +221,7 @@ export default function HomePage() {
             </div>
           </div>
 
-          <h1 className="text-white text-4xl sm:text-3xl md:text-5xl lg:text-6xl xl:text-8xl font-bold leading-tight mb-4 sm:mb-6 text-balance">
+          <h1 className="text-white text-4xl sm:text-3xl md:text-5xl xl:text-8xl font-bold leading-tight mb-4 sm:mb-6 text-balance lg:text-4xl">
             Redefining Industries
             <br />
             Through{" "}
@@ -231,7 +231,7 @@ export default function HomePage() {
             <br />& Aerial Intelligence
           </h1>
 
-          <p className="text-white/70 text-sm sm:text-base md:text-sm lg:text-2xl mb-6 sm:mb-8 max-w-2xl text-pretty">
+          <p className="text-white/70 text-sm sm:text-base md:text-sm mb-6 sm:mb-8 max-w-2xl text-pretty lg:text-xl">
             Driving the future of drone technology with precision agriculture,
             <br className="hidden sm:block" />
             <span className="sm:hidden"> </span>
