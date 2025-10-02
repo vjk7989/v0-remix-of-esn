@@ -221,7 +221,7 @@ export default function HomePage() {
             </div>
           </div>
 
-          <h1 className="text-white text-4xl sm:text-3xl md:text-5xl xl:text-8xl font-bold leading-tight mb-4 sm:mb-6 text-balance lg:text-4xl">
+          <h1 className="text-white text-4xl sm:text-3xl xl:text-8xl font-bold leading-tight mb-4 sm:mb-6 text-balance md:text-4xl">
             Redefining Industries
             <br />
             Through{" "}
